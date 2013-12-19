@@ -6,6 +6,11 @@ asp.net.SaySay
 这个作业和我之前的 [JSP的作业](https://github.com/WenerLove/java.blog)
 有点类似,登录界面完全一样的,为了简洁,登录和注册都在同一个界面.
 
+URL 是使用的跳转映射的,包括的动作有
+
+* /by/user 只显示该用户发表的
+* /search/keywords 搜索包含该关键词的
+* /login /register /logout 分别为 登录,注册,登出
 
 截图
 ----
