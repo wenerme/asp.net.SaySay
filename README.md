@@ -3,10 +3,9 @@ asp.net.SaySay
 
 我的ASP.NET作业,使用mongodb作为数据库,实现的一个发言的平台,SaySay意为 说说.
 
-这个作业和我之前的 [JSP的作业](1)有点类似,登录界面完全一样的,为了简洁,登录和注册都在同一个界面.
+这个作业和我之前的 [JSP的作业](https://github.com/WenerLove/java.blog)
+有点类似,登录界面完全一样的,为了简洁,登录和注册都在同一个界面.
 
-
-	[1]:https://github.com/WenerLove/java.blog
 
 截图
 ----
