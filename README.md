@@ -24,3 +24,10 @@ asp.net.SaySay
 * [BootStrap](http://getbootstrap.com/), [cyborg 主题](http://bootswatch.com/cyborg/)
 * JQ
 * animate.css
+* [font awesome](http://fontawesome.io/)
+* [less](http://lesscss.org/)
+
+注意
+----
+
+* test.aspx 是用于生成测试数据的
