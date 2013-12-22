@@ -1,3 +1,9 @@
+<!-- title: 我的ASP.NET作业, 说说 -->
+<!-- tag: java, jsp -->
+<!-- date: 2013/12/20 -->
+<!-- state: published -->
+<!-- link: asp.net.SaySay -->
+
 asp.net.SaySay
 ==============
 
@@ -11,6 +17,8 @@ URL 是使用的跳转映射的,包括的动作有
 * /by/user 只显示该用户发表的
 * /search/keywords 搜索包含该关键词的
 * /login /register /logout 分别为 登录,注册,登出
+ 
+<!-- more -->
 
 截图
 ----
